@@ -4,7 +4,7 @@ const About = () => {
     document.title = "About";
     return (
         <div>
-            <h1>About</h1>
+            <h1>About us</h1>
             <h5>We offer 5-star banquet spaces, complete with catering and event management facilities.</h5>
             <p>This polished hotel is 3 km from both Jashore Airport and 8 km from the British colonial-style buildings at Jessore Collectorate Park. It's 11 km from Jess Garden Park.
 
